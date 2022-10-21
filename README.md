@@ -10,7 +10,7 @@ Post your work on GitHub
 Describe what your project is about and what it does
 
 ### Files used
-chicago, new york city, washington
+chicago.zip, new york city.zip, washington.zip, bikeshare.py, README.md
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
