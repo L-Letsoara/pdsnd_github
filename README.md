@@ -4,7 +4,7 @@
 This project was created on the 21st of october 2022 and README file.
 
 ### Project Title
-Replace the Project Title
+Project 3 - Post your work on GitHub
 
 ### Description
 Describe what your project is about and what it does
